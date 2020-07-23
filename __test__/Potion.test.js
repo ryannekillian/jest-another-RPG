@@ -17,5 +17,7 @@ test('creates a health potion object', () => {
       this.value = Math.floor(Math.random() * 5 + 7);
     }
   }
+
+  
   
   module.exports = Potion;
